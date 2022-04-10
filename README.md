@@ -30,7 +30,7 @@ Final result
 ## Links
 
 - Repo: [https://github.com/creativoma/card-component-react](https://github.com/creativoma/card-component-react)
-- Deploy: [https://creativoma.github.io/card-component-react](https://creativoma.github.io/card-component-react)
+- Deploy: [https://https://card-component-react.vercel.app/](https://https://card-component-react.vercel.app/)
 - Design provide by Scrimba in Figma [Here!](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A129)
 
 ## Built with
