@@ -21,11 +21,11 @@
 
 Expectation / Sample
 
-![screenshot](./src/images/screenshot-sample.png)
+![screenshot](./src/image/screenshot-sample.png)
 
 Final result
 
-![screenshot](./src/images/screenshot-result.png)
+![screenshot](./src/image/screenshot-result.png)
 
 ## Links
 
