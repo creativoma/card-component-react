@@ -6,8 +6,6 @@ import iconFacebook from '../image/facebook-icon.svg'
 import iconInstagram from '../image/instagram-icon.svg'
 import iconTwitter from '../image/twitter-icon.svg'
 
-
-
 export default function Footer() {
   return (
     <section id="footer">
