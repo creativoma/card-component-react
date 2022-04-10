@@ -1,0 +1,94 @@
+
+
+#info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#info h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #2B283A;
+    margin-top: 20px;
+    margin-bottom: 6.19px;
+}
+
+#info h3{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+    color: #F47D27;
+    margin-bottom: 8.18px;
+}
+
+#info a{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    text-align: center;
+    color: #4A4E74;
+    margin-bottom: 17px;
+}
+
+
+#info button{
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    width: 247px;
+    height: 34px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #374151;
+    cursor: pointer;
+}
+
+#about{
+    padding: 25px 35px 15px 35px;
+}
+
+#interest{
+    padding: 0px 35px 25px 35px; 
+}
+
+#about h2, #interest h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #2B283A;
+}
+
+#about p, #interest p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #4A4E74; 
+}
+
+#footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 47.5px;
+    min-height: 64px;
+    background: #D5D4D8;
+    border-radius: 0 0 10px 10px;
+}
+
+#footer img{
+    cursor: pointer;
+}
