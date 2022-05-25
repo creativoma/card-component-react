@@ -37,7 +37,7 @@ Final result
 
 - HTML5
 - CSS3 
-- Moderm Javascript
+- Modern Javascript
 - React & ReactDOM
 - Vite.js
 
